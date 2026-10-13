@@ -292,3 +292,7 @@ Cuidado com o que NÃO entra na documentação. A reunião descarta explicitamen
 A restrição de não alterar o código da aplicação é absoluta: o código serve de contexto e referência, e o entregável é puramente documental.
 
 Itere bastante. Os primeiros documentos que a IA gerar provavelmente serão superficiais ou redundantes. Volte com correções, peça refinamento de pontos específicos, peça para remover trechos vagos, peça exemplos concretos. O resultado final deve parecer escrito por alguém que pensou no problema com a IA ao lado, não por alguém que copiou e colou da transcrição.
+
+## Design docs da feature
+
+A documentação preparada para a feature de webhooks está em [docs/PROCESSO.md](docs/PROCESSO.md), com links para PRD, RFC, FDD, ADRs e Tracker.
