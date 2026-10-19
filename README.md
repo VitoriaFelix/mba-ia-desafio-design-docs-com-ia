@@ -44,7 +44,7 @@ Compare PRD, RFC, FDD, ADRs e Tracker com a transcrição e o código local. Pro
 ## Iterações e ajustes
 
 - A primeira pasta aberta no app era um diretório de trabalho sem clone. Após o caminho do fork ser informado, confirmei o clone correto antes de começar a escrever.
-- O fork já continha `docs/PRD.md`, `RFC.md`, `FDD.md` e `TRACKER.md`, mas todos eram placeholders. Revisei esses conteúdos antes de preenchê-los e mantive o README original de instruções.
+- O fork já continha `docs/PRD.md`, `RFC.md`, `FDD.md` e `TRACKER.md` como placeholders. Revisei os documentos propostos antes de preenchê-los.
 - As propostas foram confrontadas com os caminhos reais do fork. Mantive `customer_id` e controle de acesso cruzado como ponto a fechar porque o JWT atual contém identidade/role de usuário, mas não vínculo de customer; também deixei aberta a semântica exata das cinco tentativas e detalhes de consulta/retenção de deliveries.
 - Ajustei a referência do FDD para indicar que a validação foi feita no código deste fork e criei um índice de ADRs compatível com os nomes efetivamente adotados.
 
